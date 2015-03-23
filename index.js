@@ -33,7 +33,7 @@ var wordstream = module.exports = function(){
  */
 var clean = function(buf){
     return buf.toString()
-        .replace(/[^a-zA-Z]/g, "\n");
+        .replace(/[^a-zA-Z|\'|\-|\_]/g, "\n");
 }
 
 /**
