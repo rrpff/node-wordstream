@@ -1,7 +1,7 @@
 {
   "name": "wordstream",
   "version": "0.0.0",
-  "description": "Convert a stream into a stream of words. Plus utilities for filtering words.",
+  "description": "Streams words from a stream, and provides utility streams for filtering through them.",
   "main": "index.js",
   "directories": {
     "test": "test"
