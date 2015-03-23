@@ -23,5 +23,13 @@
   "devDependencies": {
     "chai": "^2.1.2",
     "event-stream": "^3.3.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zuren/node-wordstream.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zuren/node-wordstream/issues"
+  },
+  "homepage": "https://github.com/zuren/node-wordstream"
 }
