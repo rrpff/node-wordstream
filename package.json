@@ -1,0 +1,27 @@
+{
+  "name": "wordstream",
+  "version": "0.0.0",
+  "description": "Convert a stream into a stream of words. Plus utilities for filtering words.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "stream",
+    "word",
+    "dictionary"
+  ],
+  "author": "Richard Foster <richard@rpf.me> (http://rpf.me/)",
+  "license": "MIT",
+  "dependencies": {
+    "contained": "0.0.1",
+    "through": "^2.3.6"
+  },
+  "devDependencies": {
+    "chai": "^2.1.2",
+    "event-stream": "^3.3.0"
+  }
+}

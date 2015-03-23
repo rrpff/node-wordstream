@@ -1,0 +1,6 @@
+apple
+banana
+banana
+cherry
+mango
+sandwich
